@@ -6,7 +6,7 @@ length(b)
 
 a*b
 b*a
-c= times %eroare de sintaxa?
+
 
 
 
