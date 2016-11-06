@@ -1,5 +1,3 @@
-function exercitiu1_tema()
-
 fs = 5000;
 timp = 0:1/fs:100;
 
@@ -18,4 +16,3 @@ xlabel('Timp (sec)')
 ylabel('Amplitudine')
 title('Semnal dreptunghiular')
 
-end
